@@ -1,0 +1,150 @@
+/* Styles */
+html 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: 'Pacifico', cursive;
+}
+html {
+    background: url(texture1.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+ body {
+  font-size: 16px;
+  line-height: 22px;
+  max-width: 760px;
+  margin: 0 auto;
+  }
+h1 {
+	color: #F7E4D6;
+	font-family: 'Pacifico', cursive;
+	font-size: 73px;
+	line-height: 80px;
+	margin-top: 34px;
+	margin-bottom: 30px;
+}
+h2 {
+	font-family: 'raleway';
+  font-size: 16px;
+	color: #CDD2AA;
+}
+h3 {
+	color: #CDD2AA;
+	font-family: 'Pacifico', cursive;
+	font-size: 26px;
+	line-height: 44px;
+	margin-top: 42px;
+	margin-bottom: 22px;
+}
+.phone {
+	margin-top: 42px;
+	margin-bottom: 12px;
+	font-family: 'Syncopate', sans-serif;
+	color: #545F39;
+}
+.fax{
+	margin-top: 12px;
+	margin-bottom: 18px;
+	font-family: 'Syncopate', sans-serif;
+	color: #545F39;
+}
+.tagline {
+	font-family: 'Syncopate', sans-serif;
+	color: white;
+}
+
+.address {
+	color: #545F39;
+	font-family: 'Syncopate', sans-serif;
+	line-height: 22px;
+ }
+.building {
+	font-size: 23px;
+	margin-top: 18px;
+}
+.street {
+	font-size: 20px;
+}
+.local {
+	font-size: 13px;
+}
+.zip {
+	font-size: 30px;
+}
+	
+.menu-bar {
+	font-family: 'Syncopate', sans-serif;
+	color: #CDD2AA;
+	 font-size: 15px;
+  line-height: 22px;
+  margin-top: 18px;
+  margin-bottom: 18px;
+}
+.location {
+	font-size: 14px;
+	margin-bottom: 5px;
+}
+.events {
+	font-size: 15px;
+	margin-bottom: 5px;
+}
+.about {
+	margin-bottom: 5px;
+}
+.menu {
+	margin-bottom: 104px;
+}
+.menu-item + .menu-item {
+  margin-left: 5%;
+  }
+.menu-items-row {
+  font-size: 0;
+  line-height: 3;
+}
+
+.menu-item {
+	font-family: 'raleway';
+  display: inline-block;
+  width: 30%;
+  font-size: 16px;
+  line-height: 1.2;
+}
+
+p {
+	font-family: 'raleway';
+	color: #B69352;
+	 margin-top: 22px;
+  margin-bottom: 22px;
+  width: 50%;
+}
+
+
+.event {
+	font-family: 'syncopate';
+	color: #545F39;
+}
+
+.dates {
+	font-family: 'syncopate';
+	color: #CDD2AA;
+	font-size: 12px;
+}
+.map {
+	margin-bottom: 22px;
+}
+/* Sanitation */
+hr {
+  border: 1px solid;
+  margin: -1px 0;
+}
+b, strong, em, small, code, {
+  line-height: 1;
+}
+
+
+
